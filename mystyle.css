@@ -5,6 +5,7 @@ body {
 h1 {
     color: darkred;
     text-align: center;
+    padding: inherit;
 }
 .heading {
     color: darkorange;
@@ -13,4 +14,8 @@ h1 {
 #list-color {
     color: yellow;
 
+}
+img {
+    border-style: solid;
+    border-color: ghostwhite;
 }

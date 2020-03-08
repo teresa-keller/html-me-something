@@ -3,12 +3,11 @@ body {
     font-family: Verdana;
 }
 h1 {
-    color: #a8170a;
+    color: darkred;
 }
 .heading {
-    color: #f76820;
+    color: darkorange;
 }
 #list-color {
     color: yellow;
 }
-    

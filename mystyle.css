@@ -13,10 +13,12 @@ h1 {
 }
 #list-color {
     color: yellow;
+    margin-right: "300";
+    margin-left: 650px;
 
 }
 img {
     border-style: solid;
     border-color: ghostwhite;
-    margin-right: "175";
+    padding: 30px;
 }
